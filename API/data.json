@@ -1,0 +1,214 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Enola Rowe",
+      "class": "tony@mcu.com",
+      "address": "131 Oswaldo Street"
+    },
+    {
+      "id": 2,
+      "name": "Timmothy Lueilwitz",
+      "age": "15",
+      "address": "37137 Abbigail Lock"
+    },
+    {
+      "id": 3,
+      "name": "Madilyn Pacocha",
+      "age": "14",
+      "address": "094 Morris Plains"
+    },
+    {
+      "id": 4,
+      "name": "Harley Cremin",
+      "age": "17",
+      "address": "14855 Cathy Square"
+    },
+    {
+      "id": 5,
+      "name": "Juana Ziemann",
+      "age": "16",
+      "address": "612 Dayana Stream"
+    },
+    {
+      "name": "sadssaasd",
+      "age": "asdsadsad",
+      "id": 6
+    },
+    {
+      "name": "sadsafas",
+      "age": "asdasfdasd",
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "name": "wdasda",
+      "age": "asfsdfs",
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "name": "saffdgsf",
+      "age": "asdsafsda",
+      "id": 11
+    },
+    {
+      "name": "mervebaran@gmail.com",
+      "age": "merve",
+      "id": 12
+    },
+    {
+      "name": "mervan",
+      "password": "merve",
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "name": "sadasd",
+      "password": "dasdasd",
+      "id": 16
+    },
+    {
+      "name": "sdsadasd",
+      "password": "sadsada",
+      "id": 17
+    },
+    {
+      "name": "adADAD",
+      "password": "DSFDSDFSD",
+      "id": 18
+    },
+    {
+      "name": "dsfafdwasfd",
+      "password": "gfdgfg",
+      "id": 19
+    },
+    {
+      "name": "hgfjjh",
+      "password": "hgjhk",
+      "id": 20
+    },
+    {
+      "name": "deneme@gmail.com",
+      "password": "deneme",
+      "id": 21
+    },
+    {
+      "name": "cghvöj",
+      "password": "ghcvkmç",
+      "id": 22
+    },
+    {
+      "name": "sense@gmail.com",
+      "password": "sense",
+      "id": 23
+    },
+    {
+      "name": "ser@gmail.com",
+      "password": "serser",
+      "id": 24
+    },
+    {
+      "name": "yeye@gmail.com",
+      "password": "yeye",
+      "id": 25
+    },
+    {
+      "id": 26
+    },
+    {
+      "id": 27
+    },
+    {
+      "id": 28
+    },
+    {
+      "id": 29
+    },
+    {
+      "id": 30
+    },
+    {
+      "id": 31
+    },
+    {
+      "id": 32
+    },
+    {
+      "id": 33
+    },
+    {
+      "id": 34
+    },
+    {
+      "id": 35
+    },
+    {
+      "id": 36
+    },
+    {
+      "id": 37
+    },
+    {
+      "id": 38
+    },
+    {
+      "id": 39
+    },
+    {
+      "id": 40
+    },
+    {
+      "id": 41
+    },
+    {
+      "name": "demo@gmail.com",
+      "password": "demo",
+      "id": 42
+    },
+    {
+      "name": "demo@gmail.com",
+      "password": "demo",
+      "id": 43
+    },
+    {
+      "name": "merve@gmail.com",
+      "password": "merve",
+      "id": 44
+    },
+    {
+      "id": 45
+    },
+    {
+      "id": 46
+    },
+    {
+      "id": 47
+    },
+    {
+      "id": 48
+    },
+    {
+      "name": "merv@gmail.com",
+      "password": "merve",
+      "id": 49
+    },
+    {
+      "id": 50
+    },
+    {
+      "name": "afdg",
+      "password": "sdfhg",
+      "id": 51
+    }
+  ]
+}

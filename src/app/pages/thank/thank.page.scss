@@ -1,0 +1,62 @@
+#container {
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  #container strong {
+    font-size: 18px;
+    line-height: 26px;
+  }
+  
+  #container p {
+    font-size: 11px;
+    line-height: 22px;
+    color: #8c8c8c;
+    margin: 0.5rem;
+  }
+  
+  #container a {
+    text-decoration: none;
+  }
+  
+  #container .tft {
+    width:8rem;
+    margin-right:1rem;
+    margin-top:1rem;
+    margin-bottom: 2rem;
+  }
+  
+  #container .tff {
+    width:8rem;
+    margin-top:1rem;
+    margin-bottom: 2rem;
+  }
+  
+  #container .tfg {
+    width:17.5rem;
+    margin-top:2rem;
+    margin-bottom: 1rem;
+  }
+
+  #container .cmd {
+      border:1px solid grey;
+      border-radius: 4px;
+      margin-top:1rem;
+      width:17.5rem;
+      margin: 1.2rem;
+  }
+  #container .check p {
+    margin-top: -1.5rem;
+  }
+  #container .check .checks {
+      margin-right:16rem;
+  }
+
+  #container img {
+    height: 20rem;
+    width: 20rem;
+  }
